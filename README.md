@@ -10,6 +10,10 @@ Serie de 2 webinars diseñados para profundizar sobre el aprendizaje supervisado
 |---|------|------|--------|----------|
 | 1 | Práctica | Repaso regresión | [Ejercicios de código](https://www.hackerrank.com/ds-review-basic-code) | [Ver notebook]() |
 
+Ejercicios extra:
+ - https://www.hackerrank.com/ds-reto-parte-2
+ - https://www.hackerrank.com/reto-parte-3
+
 ---
 
 ## 🛠️ Requisitos y herramientas
